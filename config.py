@@ -1,8 +1,8 @@
 class Config:
     def __init__(self) -> None:
         self.database = {
-            "host": "47.115.207.251",
-            "user": "root",
-            "password": "ACMclub2021",
+            "host": "YOUR SERVER",
+            "user": "YOUR USER",
+            "password": "YOUR PASSWORD",
             "port": 3306
         }
